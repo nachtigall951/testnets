@@ -1,0 +1,2 @@
+# testnets
+Current testnets
